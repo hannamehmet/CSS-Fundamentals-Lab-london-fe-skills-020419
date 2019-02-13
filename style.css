@@ -32,11 +32,9 @@ figcaption {
   text-align: center
 }
 
-#details {
-  display: block;
-}
 
 #details div {
+  display: block
   float: left;
   background-color: red;
   text-align: center;
